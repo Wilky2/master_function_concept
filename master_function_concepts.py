@@ -58,7 +58,7 @@ def list_index_of_a(string):
 
 print(list_index_of_a(string))
 
-#
+#egzeis 10
 def concat_string_with_his_len(string):
     string_without_space = "".join(string.split())
     string_with_his_len = string_without_space + str(len(string_without_space))
